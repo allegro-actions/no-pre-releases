@@ -1,6 +1,14 @@
 name: "action name"
 description: "action description"
 
+inputs:
+  allow-beta:
+    description: 'allow beta version'
+    required: false
+  allow-tags:
+    description: 'allow tagged version'
+    required: false
+
 runs:
   using: 'node12'
   main: 'dist/index.js'
