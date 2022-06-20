@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@actions/core": "^1.6.0",
+    "@actions/core": "^1.9.0",
     "@gh-stats/reporter": "^1.0.6"
   },
   "devDependencies": {
