@@ -11,7 +11,7 @@
     "@gh-stats/reporter": "^1.0.6"
   },
   "devDependencies": {
-    "@vercel/ncc": "^0.33.4",
+    "@vercel/ncc": "^0.38.0",
     "eslint": "^7.32.0",
     "eslint-plugin-jest": "^24.4.0",
     "jest": "^28.1.0"
